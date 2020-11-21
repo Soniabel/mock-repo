@@ -1899,3 +1899,4 @@ I am very excited to be a part of Kottans community and learn frontend with you!
 
 ![Star War Cat](assets/images/star-wars.png)
 
+## Всім привіт, дуже рада приєднатися до Kottans та працювати разом з вами.
